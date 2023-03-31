@@ -140,11 +140,11 @@ body {
   pointer-events: none;
 }
 .carousel img {
-  height: 340px;
+  height: 400px;
   object-fit: cover;
   user-select: none;
   margin-left: 14px;
-  width: calc(100% / 3);
+  width: calc(100% / 4);
 }
 .carousel img:first-child {
   margin-left: 0px;
